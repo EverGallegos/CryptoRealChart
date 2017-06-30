@@ -5,11 +5,18 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "autobahn": "^17.5.2",
     "bower": "^1.8.0",
     "gulp": "^3.9.1",
+    "gulp-mocha": "^4.3.1",
     "gulp-ruby-sass": "^2.1.1",
     "gulp-sass": "^3.1.0",
-    "gulp-watch": "^4.3.11"
+    "gulp-watch": "^4.3.11",
+    "nonce": "^1.0.4",
+    "poloniex-api": "^1.2.4",
+    "request": "^2.81.0",
+    "superagent": "^3.5.2",
+    "url": "^0.11.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

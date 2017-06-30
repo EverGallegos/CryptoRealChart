@@ -14,6 +14,7 @@
   "devDependencies": {
     "bootstrap-sass": "^3.3.7",
     "font-awesome": "^4.7.0",
-    "breakpoint-sass": "^2.7.1"
+    "breakpoint-sass": "^2.7.1",
+    "autobahn": "^17.5.2"
   }
 }
